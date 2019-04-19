@@ -912,14 +912,14 @@ input:focus {
       font-size: 14px; }
       @media only screen and (max-width: 767px) {
         .copywrite-text p a {
-          font-size: 12px; } }
+          font-size: 10px; } }
       .copywrite-text p a:focus, .copywrite-text p a:hover {
         color: #ffffff; }
 
 .copywrite-content {
   position: relative;
   z-index: 1;
-  padding: 15px 0;
+  padding: 15px 20px;
   border-top: 1px solid #273d4b; }
   .copywrite-content .social-info {
     text-align: right; }
