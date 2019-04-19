@@ -414,7 +414,8 @@ input:focus {
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  border: 1px solid red;
+  border: 1px solid rgb(247, 242, 242);
+  background-color: #139daf
 
 }
 
@@ -2488,5 +2489,10 @@ html .ui-button.ui-state-disabled:active {
         margin-left: 20px; } }
     .comment_area .children .single_comment_area:last-of-type {
       margin-bottom: 0; }
+    /* 20::COMMING SOON */
+    .roberto-span-text{
+      vertical-align:top;
+      font-weight: 400;
+    }
 
 /*# sourceMappingURL=style.css.map */
