@@ -410,6 +410,14 @@ input:focus {
 .btn:focus {
   box-shadow: none; }
 
+.roberto-btn-comming-soon{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid red;
+
+}
+
 .roberto-btn {
   position: relative;
   z-index: 1;
@@ -419,10 +427,10 @@ input:focus {
   font-size: 16px;
   font-weight: 500;
   display: inline-block;
-  padding: 0 40px;
+  padding: 0 30px;
   text-align: center;
   text-transform: capitalize;
-  background-color: #c4050f;
+  background-color: #07726d;
   color: #ffffff;
   border: none;
   border-radius: 2px;
