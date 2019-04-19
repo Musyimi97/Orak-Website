@@ -511,7 +511,7 @@ input:focus {
   z-index: 1;
   width: 100%;
   height: 50px;
-  background-color: #0e2737; }
+  background-color: #001520; }
   .top-header-area .top-header-content {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -580,7 +580,7 @@ input:focus {
         margin-right: 15px; } }
 
      .classy-nav-container .classy-navbar .nav-brand img{
-      height: 80px;
+      height: 70px;
     }
 
     .classy-nav-container .classy-navbar .classynav ul li a {
