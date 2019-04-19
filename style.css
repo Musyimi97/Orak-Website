@@ -587,7 +587,7 @@ input:focus {
     .classy-nav-container .classy-navbar .classynav ul li a {
       font-size: 16px;
       text-transform: capitalize;
-      color: #2a303b;
+      color: #e4e7ec;
       font-weight: 500;
       padding: 0 20px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -641,7 +641,7 @@ input:focus {
 .classynav ul li.has-down > a::after,
 .classynav ul li.has-down.active > a::after,
 .classynav ul li.megamenu-item > a::after {
-  color: #2a303b; }
+  color: #e9ecf1; }
 
 .breakpoint-off .classynav ul li .dropdown,
 .breakpoint-off .classynav ul li .megamenu {
@@ -654,7 +654,7 @@ input:focus {
   width: 100%; }
 
 .classy-navbar-toggler .navbarToggler span {
-  background-color: #2a303b; }
+  background-color: #e6e9f0; }
 
 .main-header-area {
   position: relative;
@@ -662,7 +662,7 @@ input:focus {
   background-color: #02030c; }
   .main-header-area .book-now-btn a {
     padding: 0 30px;
-    background-color: #c31c78;
+    background-color: #c31c24;
     height: 80px;
     line-height: 80px;
     text-align: center;
