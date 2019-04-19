@@ -659,10 +659,10 @@ input:focus {
 .main-header-area {
   position: relative;
   z-index: 1;
-  background-color: #02031b; }
+  background-color: #02030c; }
   .main-header-area .book-now-btn a {
     padding: 0 30px;
-    background-color: #1cc3b2;
+    background-color: #c31c78;
     height: 80px;
     line-height: 80px;
     text-align: center;
