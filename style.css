@@ -1528,7 +1528,8 @@ html .ui-button.ui-state-disabled:active {
           max-width: 100%;
           width: 100%; } }
       .room-service ul li img {
-        padding-right: 10px; }
+        padding-right: 15px;
+      padding-left: 15px; }
 
 .room-review-area {
   position: relative;
