@@ -740,7 +740,7 @@ input:focus {
     z-index: 10;
     background-position: center center !important;
     background-size: cover !important;
-    opacity: 0;
+    opacity: 1;
     visibility: hidden; }
     @media only screen and (max-width: 767px) {
       .welcome-slides .owl-prev,
