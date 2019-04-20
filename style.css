@@ -720,11 +720,14 @@ input:focus {
   z-index: 1; }
 
 .welcome-slides {
+  filter: brightness(170%);
+  filter: contrast(140%);
   position: relative;
   z-index: 1;
   overflow: hidden; }
   .welcome-slides .owl-prev,
   .welcome-slides .owl-next {
+    
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
@@ -740,7 +743,7 @@ input:focus {
     z-index: 10;
     background-position: center center !important;
     background-size: cover !important;
-    opacity: 1;
+    opacity: 0;
     visibility: hidden; }
     @media only screen and (max-width: 767px) {
       .welcome-slides .owl-prev,
@@ -1748,7 +1751,6 @@ html .ui-button.ui-state-disabled:active {
     .hotel-search-form-area {
       padding-left: 2%;
       padding-right: 2%; } }
-<<<<<<< HEAD
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .hotel-search-form-area {
       padding-left: 0%;
@@ -1758,9 +1760,6 @@ html .ui-button.ui-state-disabled:active {
     .hotel-search-form-area {
       padding-left: 0%;
       padding-right: 0%; } }
-=======
- 
->>>>>>> 37dcd5dd984221903fd134b4c15da9d0683eb65e
   .hotel-search-form-area .hotel-search-form {
     position: relative;
     z-index: 1;
