@@ -1748,6 +1748,7 @@ html .ui-button.ui-state-disabled:active {
     .hotel-search-form-area {
       padding-left: 2%;
       padding-right: 2%; } }
+<<<<<<< HEAD
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .hotel-search-form-area {
       padding-left: 0%;
@@ -1757,6 +1758,9 @@ html .ui-button.ui-state-disabled:active {
     .hotel-search-form-area {
       padding-left: 0%;
       padding-right: 0%; } }
+=======
+ 
+>>>>>>> 37dcd5dd984221903fd134b4c15da9d0683eb65e
   .hotel-search-form-area .hotel-search-form {
     position: relative;
     z-index: 1;
