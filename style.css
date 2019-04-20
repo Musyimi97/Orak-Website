@@ -1034,8 +1034,8 @@ input:focus {
   z-index: 1; }
   .roberto-cta-area .cta-content {
     padding-top: 50px;
-    padding-left: 50px;
-    padding-right: 50px; }
+    padding-left: 20px;
+    padding-right: 20px; }
   .roberto-cta-area .cta-text h2 {
     color: #ffffff;
     font-size: 36px;
