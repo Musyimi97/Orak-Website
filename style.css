@@ -1640,7 +1640,7 @@ html .ui-button.ui-state-disabled:active {
   position: relative;
   z-index: 1; }
   .about-thumbnail img {
-    border-radius: 6px;
+    border-radius: 36px;
     width: 100%; }
 
 .about-us-thumbnail {
