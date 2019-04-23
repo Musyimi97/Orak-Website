@@ -720,6 +720,8 @@ input:focus {
   z-index: 1; }
 
 .welcome-slides {
+  filter: brightness(170%);
+  filter: contrast(140%);
   position: relative;
   z-index: 1;
   overflow: hidden; }
