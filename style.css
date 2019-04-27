@@ -720,6 +720,8 @@ input:focus {
   z-index: 1; }
 
 .welcome-slides {
+  filter: brightness(170%);
+  filter: contrast(140%);
   position: relative;
   z-index: 1;
   overflow: hidden; }
@@ -1638,7 +1640,7 @@ html .ui-button.ui-state-disabled:active {
   position: relative;
   z-index: 1; }
   .about-thumbnail img {
-    border-radius: 6px;
+    border-radius: 36px;
     width: 100%; }
 
 .about-us-thumbnail {
@@ -1689,6 +1691,7 @@ html .ui-button.ui-state-disabled:active {
 
 .roberto-service-area {
   position: relative;
+  background-color: #02273b;
   z-index: 1; }
   @media only screen and (max-width: 767px) {
     .roberto-service-area .service-content {
